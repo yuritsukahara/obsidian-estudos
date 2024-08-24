@@ -17,12 +17,8 @@ tags:
 
 > "É impossível falar em ética se nós não falamos em liberdade. Quem não é livre não pode **evidentemente** ser julgado do ponto de vista da ética." Cortela
 
-**bold** 
-*italico*
-***italico e negrito***
-
-[Receita cheesecake](https://www.tudogostoso.com.br/receita/55441-cheesecake-com-molho-de-morangos.html)
-
-## teste
+*teste*
+**teste**
+***teste***
 
 ### teste
