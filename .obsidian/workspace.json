@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24f955867d3b8abc",
+        "id": "423977b67e792cea",
         "type": "tabs",
         "children": [
           {
-            "id": "310a9dd45e9bd762",
+            "id": "0747356e858dac6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ufms ciencia de dados/banco de dados/como implementar um banco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfe8a32c5fa406c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ufms ciencia de dados/banco de dados/como implementar um banco.md",
+                "file": "Teste.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ufms ciencia de dados/banco de dados/como implementar um banco.md",
+                "file": "Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ufms ciencia de dados/banco de dados/como implementar um banco.md",
+                "file": "Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ufms ciencia de dados/banco de dados/como implementar um banco.md"
+                "file": "Teste.md"
               }
             }
           },
@@ -172,17 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfe8a32c5fa406c6",
+  "active": "0747356e858dac6f",
   "lastOpenFiles": [
+    "Teste.md",
+    "ufms ciencia de dados/banco de dados/exemplos de SGBDs.md",
+    "ufms ciencia de dados/banco de dados/projeto de banco de dados relacional.md",
+    "ufms ciencia de dados/banco de dados/[.md",
+    "ufms ciencia de dados/banco de dados/1 sistema gerenciador de banco de dados.md",
+    "templates/Blank.md",
+    "templates/Nota.md",
+    "ufms ciencia de dados/banco de dados/como implementar um banco.md",
     "projects/poemas/xc.md",
     "projects/poemas/Sá distância.md",
     "projects/poemas/poemas.md",
     "git test/test.md",
-    "ufms ciencia de dados/banco de dados/como implementar um banco.md",
     "git test",
-    "ufms ciencia de dados/banco de dados/1 sistema gerenciador de banco de dados.md",
-    "ufms ciencia de dados/banco de dados/exemplos de SGBDs.md",
-    "ufms ciencia de dados/banco de dados/projeto de banco de dados relacional.md",
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/1 ead, mídias e tecnologias digitais.md",
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/hodiernamente.md",
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/políticas públicas para a formação de professores.md",
@@ -198,8 +189,6 @@
     "media",
     "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221147.png",
     "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221138.png",
-    "templates/Blank.md",
-    "templates/Nota.md",
     "ufms ciencia de dados/banco de dados",
     "ufms ciencia de dados/Inglês/links/predição.md",
     "ufms ciencia de dados/Inglês/inglês.md",
@@ -208,8 +197,6 @@
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/midia/Neder(2000) defiinição ead.png",
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/terceira geração EAD.md",
     "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/primeira geração EAD.md",
-    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/quarta geração EAD.md",
-    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/quinta geração EAD.md",
     "livros",
     "templates",
     "templates",

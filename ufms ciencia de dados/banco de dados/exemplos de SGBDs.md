@@ -8,10 +8,10 @@ tags:
 (sistema gerenciador de banco de dados)
 ## relacionais
 
-- Oracle database
+- Oracle database[
 - MySQL
 - SQLServer
 - MariaDB
 - PostreSQL
-- SQLinte
+- SQLite
 - IBMDB2
