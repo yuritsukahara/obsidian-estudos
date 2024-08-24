@@ -1,0 +1,16 @@
+---
+data: 2024-08-23
+related:
+  - banco de dados
+source: https://www.youtube.com/watch?v=F1yBt-OcLaw
+tags:
+---
+# [[usuários de um sistema de banco de dados]]
+
+# [[vantagens da abordagem baseada em SGBDs]]
+
+# [[exemplos de SGBDs]]
+
+# [[como implementar um banco]]
+
+# [[sugestões de canais banco de dados]]
