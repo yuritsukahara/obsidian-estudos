@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "50192173512db37b",
+        "id": "6679968660d93f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "26f28c001aeb35f9",
+            "id": "ec06d2fc359b4aaf",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f8c3fa1f206bbbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Receita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Receita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Receita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Receita.md"
+              }
             }
           },
           {
@@ -151,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26f28c001aeb35f9",
+  "active": "f8c3fa1f206bbbaf",
   "lastOpenFiles": [
+    "Receita.md",
     "Receitas.md",
     "Receita almoço.md",
     "Título.md",
