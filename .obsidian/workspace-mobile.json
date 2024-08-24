@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "61f58e3a5ac1fc3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c51effccc6a142e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f0f059148f8112",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc7c4dbccdc05780",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe43a5d319515443",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "99aa1d31c2d1cf97",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2cb06264bf6aa7d6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ce2fb8b6dd369fd5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "626f64e289a84c88",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c08c59c9799cbf86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4661b5aa2df4c293",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f7f8b3f3a75122c3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9f0f059148f8112",
+  "lastOpenFiles": [
+    "ufms ciencia de dados/pensamento computacional/informatica na bncc.md",
+    "ufms ciencia de dados/Inglês/links/scanning.md",
+    "ufms ciencia de dados/Inglês/links/skimming.md",
+    "ufms ciencia de dados/pensamento computacional",
+    "ufms ciencia de dados/Inglês/links/predição.md",
+    "ufms ciencia de dados/Inglês/links/cognatos.md",
+    "ufms ciencia de dados/Inglês/links/a importância da língua inglesa na sociedade contemporânea.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/midia/Neder(2000) defiinição ead.png",
+    "ufms ciencia de dados/Inglês/inglês.md",
+    "ufms ciencia de dados/Inglês/links",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/terceira geração EAD.md",
+    "ufms ciencia de dados/Inglês",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/segunda geração EAD.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/midia",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/quinta geração EAD.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/quarta geração EAD.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/primeira geração EAD.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/políticas públicas para a formação de professores.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/hodiernamente.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/educação a distância no brasil e no mundo.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/conceituação para EAD alguns elementos.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/educação a distância - fundamentos, tecnologias, estrutura e processo de ensino e aprendizagem.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links/1 ead, mídias e tecnologias digitais.md",
+    "ufms ciencia de dados/banco de dados/usuários de um sistema de banco de dados.md",
+    "ufms ciencia de dados/banco de dados/vantagens da abordagem baseada em SGBDs.md",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais/links",
+    "ufms ciencia de dados/ead, mídias e tecnologias digitais",
+    "ufms ciencia de dados/banco de dados/sugestões de canais banco de dados.md",
+    "ufms ciencia de dados/banco de dados/projeto de banco de dados relacional.md",
+    "livros/fundamentals of database systems - ramez elmasri.pdf",
+    "ufms ciencia de dados/banco de dados/como implementar um banco.md",
+    "ufms ciencia de dados/banco de dados/exemplos de SGBDs.md",
+    "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221147.png",
+    "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221558.png",
+    "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221138.png",
+    "ufms ciencia de dados/banco de dados/attachments/Pasted image 20240823221104.png",
+    "ufms ciencia de dados/banco de dados/1 sistema gerenciador de banco de dados.md",
+    "ufms ciencia de dados/banco de dados/attachments",
+    "templates/Nota.md",
+    "ufms ciencia de dados/banco de dados",
+    "ufms ciencia de dados",
+    "gamedev/images/Minimal pixel art.png"
+  ]
+}
