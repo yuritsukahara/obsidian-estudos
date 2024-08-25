@@ -14,3 +14,5 @@ tags:
 # [[como implementar um banco]]
 
 # [[sugestões de canais banco de dados]]
+
+[[fundamentals of database systems - ramez elmasri.pdf#page=138&selection=4,0,5,11|fundamentals of database systems - ramez elmasri, page 138]]
